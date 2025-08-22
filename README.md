@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YOGAAROGYA Frontend
 
 ## Overview
@@ -150,3 +151,6 @@ npm run dev
 
 ## License
 MIT License - see LICENSE file for details
+=======
+# yogaarogya_frontend
+>>>>>>> d267fbda4e3b94baa100770c5c2a160ff6af87bd
